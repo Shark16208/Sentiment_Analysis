@@ -6,20 +6,6 @@ It achieves the following results on the evaluation set:
 - Accuracy: 0.8733
 - F1: 0.8774
 
-## Model description
-
-More information needed
-
-## Intended uses & limitations
-
-More information needed
-
-## Training and evaluation data
-
-More information needed
-
-## Training procedure
-
 ### Training hyperparameters
 
 The following hyperparameters were used during training:
@@ -30,10 +16,6 @@ The following hyperparameters were used during training:
 - optimizer: Adam with betas=(0.9,0.999) and epsilon=1e-08
 - lr_scheduler_type: linear
 - num_epochs: 2
-
-### Training results
-
-
 
 ### Framework versions
 
