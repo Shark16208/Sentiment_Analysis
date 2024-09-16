@@ -1,19 +1,3 @@
----
-license: apache-2.0
-base_model: distilbert-base-uncased
-tags:
-- generated_from_trainer
-metrics:
-- accuracy
-- f1
-model-index:
-- name: finetuning-sentiment-model-3000-samples
-  results: []
----
-
-<!-- This model card has been generated automatically according to the information the Trainer had access to. You
-should probably proofread and complete it, then remove this comment. -->
-
 # finetuning-sentiment-model-3000-samples
 
 This model is a fine-tuned version of [distilbert-base-uncased](https://huggingface.co/distilbert-base-uncased) on an unknown dataset.
